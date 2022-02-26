@@ -1,0 +1,152 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.background{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    background: whitesmoke;
+    background: #f2f2f2;
+    
+    
+}
+.container_one{
+    background: #ffff;
+    min-width: 69%;
+    /* box-shadow: red; */
+
+}
+.container_two{
+    background-color: #ffff;
+    min-width: 30%;
+}
+.a{
+    background: whitesmoke;
+    padding-left: 30px;
+    font-size: medium;
+    height: 35px;
+}
+.b p{
+    padding-top: 10px;
+}
+.b{
+    background: #ebebeb;
+    padding-left: 40px;
+    font-size: larger;
+    height: 50px;
+}
+.b p{
+    padding-top: 10px;
+}
+.c{
+    background: #f74464;
+    padding-left: 40px;
+    font-size: larger;
+    height: 50px;    
+}
+.c p{
+    color: #ffff;
+    padding-top: 10px;
+}
+.wrapper{
+    display: flex;
+    
+}
+.block1{
+    padding: 10px;
+    background-color: #f7f7f7;
+
+}
+.block2{
+    padding: 10px;
+    background: white;
+}
+.square{
+    min-width: 50%;
+}
+.square2{
+    /* background-color: #f7f7f7; */
+    background-color: white;
+    /* margin-right: 50px; */    
+}
+.square2  h1{
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    
+}
+.login{
+    background-color: #dadde2;
+    margin-left: 40px;
+    padding: 20px 20px 20px 20px;
+    /* min-width: 10%; */
+}
+.buttom{
+     margin-left: 40px;
+}
+.container_two{
+    background: #ebebeb;
+    margin-left: 50px;
+}
+.one{
+    background: #ffff;
+    padding: 22px;
+    margin-top: 0%;
+    border: #ebebeb;
+    border-radius: 10px;
+    /* margin-bottom: 200px; */
+}
+one p{
+    font-size: small;
+    font-weight: lighter;
+}
+.two{
+   background: #ffff;
+   padding: 20px; 
+   margin-top: 5px; 
+}
+.two span{
+    margin-left: 30px;
+}
+.three{
+    background: #f5f5f5;
+    padding: 20px;
+    max-height: min-content;
+}
+.three span{
+    font-weight: lighter;
+    font-size: medium;
+}
+.three .red{
+    color: rgb(204, 30, 30);
+}
+.yellow{
+    background: #fffcdb;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 20px;    
+}
+.login  input{
+    height: 25px;
+    margin-bottom: 10px;
+    display: block;
+}
+button{
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;                        
+    font-weight: bold;
+    background-color: #f74464;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    height: 100%;
+    width: 50%  
+}
+
+
+
+
